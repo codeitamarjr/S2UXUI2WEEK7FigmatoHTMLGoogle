@@ -7,4 +7,4 @@ Create an index and style page that replicates the Google Search page as closely
 You should include:
 
 
-Proper html <div> structure & CSS styling Input field Icons sized and placed correctly
+Proper html < div> structure & CSS styling Input field Icons sized and placed correctly
